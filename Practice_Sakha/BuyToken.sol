@@ -19,8 +19,8 @@ interface IERC20 {
 
 contract TokenBuy is IERC20 {
 
-    string public constant name = "ERC20Basic";
-    string public constant symbol = "ERC";
+    string public constant name = "RemixToken";
+    string public constant symbol = "RT";
     uint8 public constant decimals = 18;
 
 
